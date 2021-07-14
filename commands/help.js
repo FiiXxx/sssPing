@@ -58,7 +58,7 @@ List of all commands
 +embed - +slawmode
 +unmute - +mute
 +unwarn - +warn - +warnings 
-
++server
 • ────── FILTER────── •
 ☢◢Owner Commands
 +bassboost - +cleareq 
